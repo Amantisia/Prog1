@@ -27,6 +27,7 @@ public class MoreMethods {
                 out.print(' ');
                 s++;
                 b++;
+                
             }
         }
 
